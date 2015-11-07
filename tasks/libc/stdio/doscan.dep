@@ -1,0 +1,20 @@
+/home/spc/Documents/18342/lab3/tasks/libc/stdio/doscan.o:  \
+ /home/spc/Documents/18342/lab3/tasks/libc/stdio/doscan.c \
+  /home/spc/Documents/18342/lab3/tasks/libc/include/stdarg.h \
+  /home/spc/Documents/18342/lab3/tasks/libc/include/sys/types.h \
+  /home/spc/Documents/18342/lab3/tasks/libc/include/bits/types.h \
+  /home/spc/Documents/18342/lab3/tasks/libc/include/ctype.h \
+  /home/spc/Documents/18342/lab3/tasks/libc/include/inline.h \
+  /home/spc/Documents/18342/lab3/tasks/libc/stdio/doscan.h
+
+/home/spc/Documents/18342/lab3/tasks/libc/include/stdarg.h:
+
+/home/spc/Documents/18342/lab3/tasks/libc/include/sys/types.h:
+
+/home/spc/Documents/18342/lab3/tasks/libc/include/bits/types.h:
+
+/home/spc/Documents/18342/lab3/tasks/libc/include/ctype.h:
+
+/home/spc/Documents/18342/lab3/tasks/libc/include/inline.h:
+
+/home/spc/Documents/18342/lab3/tasks/libc/stdio/doscan.h:

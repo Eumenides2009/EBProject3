@@ -1,0 +1,5 @@
+/home/spc/Documents/18342/lab3/tasks/libc/swi/write.o:  \
+ /home/spc/Documents/18342/lab3/tasks/libc/swi/write.S \
+  /home/spc/Documents/18342/lab3/tasks/libc/include/asm.h
+
+/home/spc/Documents/18342/lab3/tasks/libc/include/asm.h:

@@ -1,0 +1,11 @@
+/home/spc/Documents/18342/lab3/tasks/libc/string/strcmp.o:  \
+ /home/spc/Documents/18342/lab3/tasks/libc/string/strcmp.c \
+  /home/spc/Documents/18342/lab3/tasks/libc/include/string.h \
+  /home/spc/Documents/18342/lab3/tasks/libc/include/sys/types.h \
+  /home/spc/Documents/18342/lab3/tasks/libc/include/bits/types.h
+
+/home/spc/Documents/18342/lab3/tasks/libc/include/string.h:
+
+/home/spc/Documents/18342/lab3/tasks/libc/include/sys/types.h:
+
+/home/spc/Documents/18342/lab3/tasks/libc/include/bits/types.h:

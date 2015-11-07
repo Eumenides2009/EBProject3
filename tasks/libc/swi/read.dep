@@ -1,0 +1,5 @@
+/home/spc/Documents/18342/lab3/tasks/libc/swi/read.o:  \
+ /home/spc/Documents/18342/lab3/tasks/libc/swi/read.S \
+  /home/spc/Documents/18342/lab3/tasks/libc/include/asm.h
+
+/home/spc/Documents/18342/lab3/tasks/libc/include/asm.h:

@@ -1,0 +1,23 @@
+/home/spc/Documents/18342/lab3/tasks/rot13/rot13.o:  \
+ /home/spc/Documents/18342/lab3/tasks/rot13/rot13.c \
+  /home/spc/Documents/18342/lab3/tasks/libc/include/stdlib.h \
+  /home/spc/Documents/18342/lab3/tasks/libc/include/unistd.h \
+  /home/spc/Documents/18342/lab3/tasks/libc/include/bits/fileno.h \
+  /home/spc/Documents/18342/lab3/tasks/libc/include/sys/types.h \
+  /home/spc/Documents/18342/lab3/tasks/libc/include/bits/types.h \
+  /home/spc/Documents/18342/lab3/tasks/libc/include/errno.h \
+  /home/spc/Documents/18342/lab3/tasks/libc/include/bits/errno.h
+
+/home/spc/Documents/18342/lab3/tasks/libc/include/stdlib.h:
+
+/home/spc/Documents/18342/lab3/tasks/libc/include/unistd.h:
+
+/home/spc/Documents/18342/lab3/tasks/libc/include/bits/fileno.h:
+
+/home/spc/Documents/18342/lab3/tasks/libc/include/sys/types.h:
+
+/home/spc/Documents/18342/lab3/tasks/libc/include/bits/types.h:
+
+/home/spc/Documents/18342/lab3/tasks/libc/include/errno.h:
+
+/home/spc/Documents/18342/lab3/tasks/libc/include/bits/errno.h:

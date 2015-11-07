@@ -1,26 +1,21 @@
+/*
+ * kernel.c: Kernel main (entry) function
+ *
+ * Author: Pengcheng Sun <pengches@andrew.cmu.edu>
+ *         
+ * Date:   The current time & date
+ */
 #include <exports.h>
-
-#include <arm/psr.h>
-#include <arm/exception.h>
-#include <arm/interrupt.h>
-#include <arm/timer.h>
-
 #include "swihandler.h"
-uint32_t global_data;
+
+
 
 extern unsigned *S_Handler;    //address of the custom swi handler
 extern int setup(int argc, char *argv[]);  //assembly setup routine
 
-
-int kmain(int argc, char** argv, uint32_t table)
-{
-	app_startup(); /* bss is valid after this point */
-	global_data = table;
-
-	/* Add your code here */
-
-
-	int status;	
+int main(int argc, char *argv[]) {
+	
+ 	int status;	
  	unsigned original_1, original_2;  //variables used to store the original swi handler
  	unsigned handler;  // store the address of swi handler
 
@@ -39,6 +34,7 @@ int kmain(int argc, char** argv, uint32_t table)
 
 		return error_status;
 	}
-
-
 }
+
+
+

@@ -1,0 +1,23 @@
+/home/spc/Documents/18342/lab3/tasks/libc/stdio/printf.o:  \
+ /home/spc/Documents/18342/lab3/tasks/libc/stdio/printf.c \
+  /home/spc/Documents/18342/lab3/tasks/libc/include/stdio.h \
+  /home/spc/Documents/18342/lab3/tasks/libc/include/stdarg.h \
+  /home/spc/Documents/18342/lab3/tasks/libc/include/sys/types.h \
+  /home/spc/Documents/18342/lab3/tasks/libc/include/bits/types.h \
+  /home/spc/Documents/18342/lab3/tasks/libc/include/unistd.h \
+  /home/spc/Documents/18342/lab3/tasks/libc/include/bits/fileno.h \
+  /home/spc/Documents/18342/lab3/tasks/libc/stdio/doprnt.h
+
+/home/spc/Documents/18342/lab3/tasks/libc/include/stdio.h:
+
+/home/spc/Documents/18342/lab3/tasks/libc/include/stdarg.h:
+
+/home/spc/Documents/18342/lab3/tasks/libc/include/sys/types.h:
+
+/home/spc/Documents/18342/lab3/tasks/libc/include/bits/types.h:
+
+/home/spc/Documents/18342/lab3/tasks/libc/include/unistd.h:
+
+/home/spc/Documents/18342/lab3/tasks/libc/include/bits/fileno.h:
+
+/home/spc/Documents/18342/lab3/tasks/libc/stdio/doprnt.h:

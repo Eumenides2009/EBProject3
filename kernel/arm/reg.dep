@@ -1,0 +1,11 @@
+/home/spc/Documents/18342/lab3/kernel/arm/reg.o:  \
+ /home/spc/Documents/18342/lab3/kernel/arm/reg.c \
+  /home/spc/Documents/18342/lab3/kernel/include/types.h \
+  /home/spc/Documents/18342/lab3/kernel/include/arm/reg.h \
+  /home/spc/Documents/18342/lab3/kernel/include/inline.h
+
+/home/spc/Documents/18342/lab3/kernel/include/types.h:
+
+/home/spc/Documents/18342/lab3/kernel/include/arm/reg.h:
+
+/home/spc/Documents/18342/lab3/kernel/include/inline.h:
