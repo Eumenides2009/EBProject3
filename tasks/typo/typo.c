@@ -17,6 +17,7 @@ int main(int argc, char** argv)
 	/* Add code here -- put your names at the top. */
 	unsigned long old_time;
 	unsigned long new_time;
+	int read_count=0;
 
 	char buffer[MAX_LENGTH];
 	
@@ -26,7 +27,8 @@ int main(int argc, char** argv)
 
 		old_time = time();
 
-		read(STDIN_FILENO,buffer,MAX_LENGTH);
+		read_count = read(STDIN_FILENO,buffer,MAX_LENGTH-1);
+		buffer[read_count] = '\0';
 
 		new_time = time();
 
