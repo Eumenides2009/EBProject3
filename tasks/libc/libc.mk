@@ -1,7 +1,7 @@
 TLIBC = $(TLIBCDIR)/libc.a
 TSTART = $(TLIBCDIR)/crt0.o
 
-TLIBC_GLOBAL_OBJS := raise.o
+TLIBC_GLOBAL_OBJS := raise.o 
 TLIBC_GLOBAL_OBJS := $(TLIBC_GLOBAL_OBJS:%=$(TLIBCDIR)/%)
 
 TLIBC_LIBS = swi string stdio stdlib

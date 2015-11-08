@@ -8,6 +8,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <errno.h>
+#include <stdio.h>
 int main(int argc, char *argv[]) {
 	/* Needs more code. */
 
@@ -17,7 +18,7 @@ int main(int argc, char *argv[]) {
 	int i;
 	ssize_t io_size;	   // variable used to contain the returning value of read
 
-
+	printf("%lu\n",time());
 	while((io_size = read(0,read_buffer,255)) > 0){   //if successfully read something
 		for(i=0;i<io_size;i++){                   // loop over every chars in read_buffer
 			input = read_buffer[i];

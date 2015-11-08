@@ -1,5 +1,6 @@
 /home/spc/Documents/18342/lab3/kernel/main.o:  \
  /home/spc/Documents/18342/lab3/kernel/main.c \
+  /home/spc/Documents/18342/lab3/kernel/utility.h \
   /home/spc/Documents/18342/lab3/uboot/include/exports.h \
   /home/spc/Documents/18342/lab3/kernel/include/types.h \
   /home/spc/Documents/18342/lab3/kernel/include/stdarg.h \
@@ -9,10 +10,9 @@
   /home/spc/Documents/18342/lab3/kernel/include/arm/exception.h \
   /home/spc/Documents/18342/lab3/kernel/include/arm/interrupt.h \
   /home/spc/Documents/18342/lab3/kernel/include/arm/timer.h \
-  /home/spc/Documents/18342/lab3/kernel/swihandler.h \
-  /home/spc/Documents/18342/lab3/kernel/include/bits/errno.h \
-  /home/spc/Documents/18342/lab3/kernel/include/bits/fileno.h \
-  /home/spc/Documents/18342/lab3/kernel/include/bits/swi.h
+  /home/spc/Documents/18342/lab3/kernel/include/arm/reg.h
+
+/home/spc/Documents/18342/lab3/kernel/utility.h:
 
 /home/spc/Documents/18342/lab3/uboot/include/exports.h:
 
@@ -32,10 +32,4 @@
 
 /home/spc/Documents/18342/lab3/kernel/include/arm/timer.h:
 
-/home/spc/Documents/18342/lab3/kernel/swihandler.h:
-
-/home/spc/Documents/18342/lab3/kernel/include/bits/errno.h:
-
-/home/spc/Documents/18342/lab3/kernel/include/bits/fileno.h:
-
-/home/spc/Documents/18342/lab3/kernel/include/bits/swi.h:
+/home/spc/Documents/18342/lab3/kernel/include/arm/reg.h:

@@ -1,5 +1,8 @@
 /home/spc/Documents/18342/lab3/kernel/setup.o:  \
  /home/spc/Documents/18342/lab3/kernel/setup.S \
-  /home/spc/Documents/18342/lab3/kernel/include/bits/swi.h
+  /home/spc/Documents/18342/lab3/kernel/include/bits/swi.h \
+  /home/spc/Documents/18342/lab3/kernel/include/constant.h
 
 /home/spc/Documents/18342/lab3/kernel/include/bits/swi.h:
+
+/home/spc/Documents/18342/lab3/kernel/include/constant.h:

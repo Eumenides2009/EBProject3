@@ -3,65 +3,20 @@
 #include "swihandler.h"
 
 
-int install_swi_handler(unsigned *vector,unsigned *handler,unsigned *S_Handler, unsigned *original_1, unsigned *original_2){
-
-	unsigned  offset;
-	unsigned  *s_vector;
-	unsigned  *s_handler;
-	
-
-	if(((*vector) & 0xfffff000) == load_inc_ins){ //if this is a load instruction with positive offset
-		offset = (*vector) & 0x00000fff;
-		s_vector = (unsigned *)((unsigned)vector+0x8+offset);
-
-
-	}
-	else if(((*vector) & 0xfffff000) == load_dec_ins){ //if this is a load instruction with negative offset
-		offset = (*vector) & 0x00000fff;
-		s_vector = (unsigned *)((unsigned)vector+0x8-offset);
-
-	}
-	else{
-		return 1;
-	}
-
-	// get the actual address of swi handler
-	*handler = *s_vector;
-	s_handler =(unsigned *)(*s_vector);
-
-	//store original swi handler
-	*original_1 = *s_handler;
-	*original_2 = *(s_handler+1);
-
-	//write new swi handler
-	*s_handler = load_dec_ins | 0x4;
-	*(s_handler+1) = (unsigned)S_Handler;
-
-	return 0;
-}
-
-
-void restore_handler(unsigned *handler,unsigned original_1, unsigned original_2){
-
-
-	//restore swi handler
-	*handler = original_1;
-	*(handler+1) = original_2;
-
-}
-
-
+extern volatile unsigned long kernel_time;
 
 int swi_handler(int swi_number){
 
 	//get swi number
-	swi_number = swi_number & 0x00ffffff;
+	swi_number = swi_number & swi_mask;
 
 	switch(swi_number){
 	
-		case WRITE_SWI:return -1;break;
-		case READ_SWI:return 0;break;
-		case EXIT_SWI:return 1;break;
+		case WRITE_SWI:return write_swi_return;break;
+		case READ_SWI:return read_swi_return;break;
+		case EXIT_SWI:return exit_swi_return;break;
+		case TIME_SWI:return  time_swi_return;break;
+		case SLEEP_SWI:return sleep_swi_return;break;
 		default: printf("Invalid software interrupt number!\n");return error_status;break;
 
 	}
@@ -147,3 +102,21 @@ ssize_t write_handler(int fd, const void* buf, size_t count){
 }
 
 
+
+unsigned long time_handler(void){
+	
+
+	return kernel_time;
+
+}
+
+
+void sleep_handler(unsigned long millis){
+	
+
+	unsigned long target = kernel_time + millis;
+
+	while(kernel_time <= target);
+
+	return ;
+}

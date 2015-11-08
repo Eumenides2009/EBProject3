@@ -6,7 +6,9 @@
   /home/spc/Documents/18342/lab3/tasks/libc/include/sys/types.h \
   /home/spc/Documents/18342/lab3/tasks/libc/include/bits/types.h \
   /home/spc/Documents/18342/lab3/tasks/libc/include/errno.h \
-  /home/spc/Documents/18342/lab3/tasks/libc/include/bits/errno.h
+  /home/spc/Documents/18342/lab3/tasks/libc/include/bits/errno.h \
+  /home/spc/Documents/18342/lab3/tasks/libc/include/stdio.h \
+  /home/spc/Documents/18342/lab3/tasks/libc/include/stdarg.h
 
 /home/spc/Documents/18342/lab3/tasks/libc/include/stdlib.h:
 
@@ -21,3 +23,7 @@
 /home/spc/Documents/18342/lab3/tasks/libc/include/errno.h:
 
 /home/spc/Documents/18342/lab3/tasks/libc/include/bits/errno.h:
+
+/home/spc/Documents/18342/lab3/tasks/libc/include/stdio.h:
+
+/home/spc/Documents/18342/lab3/tasks/libc/include/stdarg.h:
