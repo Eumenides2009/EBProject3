@@ -1,5 +1,5 @@
-/home/spc/Documents/18342/lab3/tasks/libc/swi/write.o:  \
- /home/spc/Documents/18342/lab3/tasks/libc/swi/write.S \
-  /home/spc/Documents/18342/lab3/tasks/libc/include/bits/swi.h
+/home/fa/emb/lab3/EBProject3/tasks/libc/swi/write.o:  \
+ /home/fa/emb/lab3/EBProject3/tasks/libc/swi/write.S \
+  /home/fa/emb/lab3/EBProject3/tasks/libc/include/bits/swi.h
 
-/home/spc/Documents/18342/lab3/tasks/libc/include/bits/swi.h:
+/home/fa/emb/lab3/EBProject3/tasks/libc/include/bits/swi.h:

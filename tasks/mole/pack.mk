@@ -1,0 +1,6 @@
+PROGS_TYPO_OBJS := mole.o
+PROGS_TYPO_OBJS := $(PROGS_TYPO_OBJS:%=$(TDIR)/mole/%)
+ALL_OBJS += $(PROGS_TYPO_OBJS)
+
+$(TDIR)/bin/mole : $(TSTART) $(PROGS_TYPO_OBJS) $(TLIBC)
+

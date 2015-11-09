@@ -1,11 +1,11 @@
-/home/spc/Documents/18342/lab3/kernel/arm/psr.o:  \
- /home/spc/Documents/18342/lab3/kernel/arm/psr.c \
-  /home/spc/Documents/18342/lab3/kernel/include/types.h \
-  /home/spc/Documents/18342/lab3/kernel/include/arm/psr.h \
-  /home/spc/Documents/18342/lab3/kernel/include/inline.h
+/home/fa/emb/lab3/EBProject3/kernel/arm/psr.o:  \
+ /home/fa/emb/lab3/EBProject3/kernel/arm/psr.c \
+  /home/fa/emb/lab3/EBProject3/kernel/include/types.h \
+  /home/fa/emb/lab3/EBProject3/kernel/include/arm/psr.h \
+  /home/fa/emb/lab3/EBProject3/kernel/include/inline.h
 
-/home/spc/Documents/18342/lab3/kernel/include/types.h:
+/home/fa/emb/lab3/EBProject3/kernel/include/types.h:
 
-/home/spc/Documents/18342/lab3/kernel/include/arm/psr.h:
+/home/fa/emb/lab3/EBProject3/kernel/include/arm/psr.h:
 
-/home/spc/Documents/18342/lab3/kernel/include/inline.h:
+/home/fa/emb/lab3/EBProject3/kernel/include/inline.h:

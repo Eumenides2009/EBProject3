@@ -1,14 +1,14 @@
-/home/spc/Documents/18342/lab3/tasks/hello/hello.o:  \
- /home/spc/Documents/18342/lab3/tasks/hello/hello.c \
-  /home/spc/Documents/18342/lab3/tasks/libc/include/unistd.h \
-  /home/spc/Documents/18342/lab3/tasks/libc/include/bits/fileno.h \
-  /home/spc/Documents/18342/lab3/tasks/libc/include/sys/types.h \
-  /home/spc/Documents/18342/lab3/tasks/libc/include/bits/types.h
+/home/fa/emb/lab3/EBProject3/tasks/hello/hello.o:  \
+ /home/fa/emb/lab3/EBProject3/tasks/hello/hello.c \
+  /home/fa/emb/lab3/EBProject3/tasks/libc/include/unistd.h \
+  /home/fa/emb/lab3/EBProject3/tasks/libc/include/bits/fileno.h \
+  /home/fa/emb/lab3/EBProject3/tasks/libc/include/sys/types.h \
+  /home/fa/emb/lab3/EBProject3/tasks/libc/include/bits/types.h
 
-/home/spc/Documents/18342/lab3/tasks/libc/include/unistd.h:
+/home/fa/emb/lab3/EBProject3/tasks/libc/include/unistd.h:
 
-/home/spc/Documents/18342/lab3/tasks/libc/include/bits/fileno.h:
+/home/fa/emb/lab3/EBProject3/tasks/libc/include/bits/fileno.h:
 
-/home/spc/Documents/18342/lab3/tasks/libc/include/sys/types.h:
+/home/fa/emb/lab3/EBProject3/tasks/libc/include/sys/types.h:
 
-/home/spc/Documents/18342/lab3/tasks/libc/include/bits/types.h:
+/home/fa/emb/lab3/EBProject3/tasks/libc/include/bits/types.h:

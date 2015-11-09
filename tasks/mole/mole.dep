@@ -1,13 +1,12 @@
-/home/fa/emb/lab3/EBProject3/tasks/twister/twister.o:  \
- /home/fa/emb/lab3/EBProject3/tasks/twister/twister.c \
+/home/fa/emb/lab3/EBProject3/tasks/mole/mole.o:  \
+ /home/fa/emb/lab3/EBProject3/tasks/mole/mole.c \
   /home/fa/emb/lab3/EBProject3/tasks/libc/include/stdio.h \
   /home/fa/emb/lab3/EBProject3/tasks/libc/include/stdarg.h \
   /home/fa/emb/lab3/EBProject3/tasks/libc/include/sys/types.h \
   /home/fa/emb/lab3/EBProject3/tasks/libc/include/bits/types.h \
   /home/fa/emb/lab3/EBProject3/tasks/libc/include/stdlib.h \
-  /home/fa/emb/lab3/EBProject3/tasks/libc/include/string.h \
-  /home/fa/emb/lab3/EBProject3/tasks/libc/include/ctype.h \
-  /home/fa/emb/lab3/EBProject3/tasks/libc/include/inline.h
+  /home/fa/emb/lab3/EBProject3/tasks/libc/include/unistd.h \
+  /home/fa/emb/lab3/EBProject3/tasks/libc/include/bits/fileno.h
 
 /home/fa/emb/lab3/EBProject3/tasks/libc/include/stdio.h:
 
@@ -19,8 +18,6 @@
 
 /home/fa/emb/lab3/EBProject3/tasks/libc/include/stdlib.h:
 
-/home/fa/emb/lab3/EBProject3/tasks/libc/include/string.h:
+/home/fa/emb/lab3/EBProject3/tasks/libc/include/unistd.h:
 
-/home/fa/emb/lab3/EBProject3/tasks/libc/include/ctype.h:
-
-/home/fa/emb/lab3/EBProject3/tasks/libc/include/inline.h:
+/home/fa/emb/lab3/EBProject3/tasks/libc/include/bits/fileno.h:

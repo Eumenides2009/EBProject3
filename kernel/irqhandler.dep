@@ -1,38 +1,41 @@
-/home/spc/Documents/18342/lab3/kernel/irqhandler.o:  \
- /home/spc/Documents/18342/lab3/kernel/irqhandler.c \
-  /home/spc/Documents/18342/lab3/kernel/irqhandler.h \
-  /home/spc/Documents/18342/lab3/kernel/utility.h \
-  /home/spc/Documents/18342/lab3/uboot/include/exports.h \
-  /home/spc/Documents/18342/lab3/kernel/include/types.h \
-  /home/spc/Documents/18342/lab3/kernel/include/stdarg.h \
-  /home/spc/Documents/18342/lab3/uboot/include/_exports.h \
-  /home/spc/Documents/18342/lab3/kernel/include/arm/psr.h \
-  /home/spc/Documents/18342/lab3/kernel/include/inline.h \
-  /home/spc/Documents/18342/lab3/kernel/include/arm/exception.h \
-  /home/spc/Documents/18342/lab3/kernel/include/arm/interrupt.h \
-  /home/spc/Documents/18342/lab3/kernel/include/arm/timer.h \
-  /home/spc/Documents/18342/lab3/kernel/include/arm/reg.h
+/home/fa/emb/lab3/EBProject3/kernel/irqhandler.o:  \
+ /home/fa/emb/lab3/EBProject3/kernel/irqhandler.c \
+  /home/fa/emb/lab3/EBProject3/kernel/include/irqhandler.h \
+  /home/fa/emb/lab3/EBProject3/kernel/include/utility.h \
+  /home/fa/emb/lab3/EBProject3/uboot/include/exports.h \
+  /home/fa/emb/lab3/EBProject3/kernel/include/types.h \
+  /home/fa/emb/lab3/EBProject3/kernel/include/stdarg.h \
+  /home/fa/emb/lab3/EBProject3/uboot/include/_exports.h \
+  /home/fa/emb/lab3/EBProject3/kernel/include/arm/psr.h \
+  /home/fa/emb/lab3/EBProject3/kernel/include/inline.h \
+  /home/fa/emb/lab3/EBProject3/kernel/include/arm/exception.h \
+  /home/fa/emb/lab3/EBProject3/kernel/include/arm/interrupt.h \
+  /home/fa/emb/lab3/EBProject3/kernel/include/arm/timer.h \
+  /home/fa/emb/lab3/EBProject3/kernel/include/arm/reg.h \
+  /home/fa/emb/lab3/EBProject3/kernel/include/constant.h
 
-/home/spc/Documents/18342/lab3/kernel/irqhandler.h:
+/home/fa/emb/lab3/EBProject3/kernel/include/irqhandler.h:
 
-/home/spc/Documents/18342/lab3/kernel/utility.h:
+/home/fa/emb/lab3/EBProject3/kernel/include/utility.h:
 
-/home/spc/Documents/18342/lab3/uboot/include/exports.h:
+/home/fa/emb/lab3/EBProject3/uboot/include/exports.h:
 
-/home/spc/Documents/18342/lab3/kernel/include/types.h:
+/home/fa/emb/lab3/EBProject3/kernel/include/types.h:
 
-/home/spc/Documents/18342/lab3/kernel/include/stdarg.h:
+/home/fa/emb/lab3/EBProject3/kernel/include/stdarg.h:
 
-/home/spc/Documents/18342/lab3/uboot/include/_exports.h:
+/home/fa/emb/lab3/EBProject3/uboot/include/_exports.h:
 
-/home/spc/Documents/18342/lab3/kernel/include/arm/psr.h:
+/home/fa/emb/lab3/EBProject3/kernel/include/arm/psr.h:
 
-/home/spc/Documents/18342/lab3/kernel/include/inline.h:
+/home/fa/emb/lab3/EBProject3/kernel/include/inline.h:
 
-/home/spc/Documents/18342/lab3/kernel/include/arm/exception.h:
+/home/fa/emb/lab3/EBProject3/kernel/include/arm/exception.h:
 
-/home/spc/Documents/18342/lab3/kernel/include/arm/interrupt.h:
+/home/fa/emb/lab3/EBProject3/kernel/include/arm/interrupt.h:
 
-/home/spc/Documents/18342/lab3/kernel/include/arm/timer.h:
+/home/fa/emb/lab3/EBProject3/kernel/include/arm/timer.h:
 
-/home/spc/Documents/18342/lab3/kernel/include/arm/reg.h:
+/home/fa/emb/lab3/EBProject3/kernel/include/arm/reg.h:
+
+/home/fa/emb/lab3/EBProject3/kernel/include/constant.h:

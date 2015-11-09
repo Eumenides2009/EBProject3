@@ -1,14 +1,14 @@
-/home/spc/Documents/18342/lab3/uboot/stubs.o:  \
- /home/spc/Documents/18342/lab3/uboot/stubs.c \
-  /home/spc/Documents/18342/lab3/uboot/include/exports.h \
-  /home/spc/Documents/18342/lab3/kernel/include/types.h \
-  /home/spc/Documents/18342/lab3/kernel/include/stdarg.h \
-  /home/spc/Documents/18342/lab3/uboot/include/_exports.h
+/home/fa/emb/lab3/EBProject3/uboot/stubs.o:  \
+ /home/fa/emb/lab3/EBProject3/uboot/stubs.c \
+  /home/fa/emb/lab3/EBProject3/uboot/include/exports.h \
+  /home/fa/emb/lab3/EBProject3/kernel/include/types.h \
+  /home/fa/emb/lab3/EBProject3/kernel/include/stdarg.h \
+  /home/fa/emb/lab3/EBProject3/uboot/include/_exports.h
 
-/home/spc/Documents/18342/lab3/uboot/include/exports.h:
+/home/fa/emb/lab3/EBProject3/uboot/include/exports.h:
 
-/home/spc/Documents/18342/lab3/kernel/include/types.h:
+/home/fa/emb/lab3/EBProject3/kernel/include/types.h:
 
-/home/spc/Documents/18342/lab3/kernel/include/stdarg.h:
+/home/fa/emb/lab3/EBProject3/kernel/include/stdarg.h:
 
-/home/spc/Documents/18342/lab3/uboot/include/_exports.h:
+/home/fa/emb/lab3/EBProject3/uboot/include/_exports.h:

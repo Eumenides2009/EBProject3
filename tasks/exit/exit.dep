@@ -1,5 +1,5 @@
-/home/spc/Documents/18342/lab3/tasks/exit/exit.o:  \
- /home/spc/Documents/18342/lab3/tasks/exit/exit.S \
-  /home/spc/Documents/18342/lab3/tasks/libc/include/bits/swi.h
+/home/fa/emb/lab3/EBProject3/tasks/exit/exit.o:  \
+ /home/fa/emb/lab3/EBProject3/tasks/exit/exit.S \
+  /home/fa/emb/lab3/EBProject3/tasks/libc/include/bits/swi.h
 
-/home/spc/Documents/18342/lab3/tasks/libc/include/bits/swi.h:
+/home/fa/emb/lab3/EBProject3/tasks/libc/include/bits/swi.h:

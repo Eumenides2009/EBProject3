@@ -1,5 +1,5 @@
-/home/spc/Documents/18342/lab3/kernel/start.o:  \
- /home/spc/Documents/18342/lab3/kernel/start.S \
-  /home/spc/Documents/18342/lab3/kernel/include/asm.h
+/home/fa/emb/lab3/EBProject3/kernel/start.o:  \
+ /home/fa/emb/lab3/EBProject3/kernel/start.S \
+  /home/fa/emb/lab3/EBProject3/kernel/include/asm.h
 
-/home/spc/Documents/18342/lab3/kernel/include/asm.h:
+/home/fa/emb/lab3/EBProject3/kernel/include/asm.h:

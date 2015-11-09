@@ -1,23 +1,23 @@
-/home/spc/Documents/18342/lab3/tasks/typo/typo.o:  \
- /home/spc/Documents/18342/lab3/tasks/typo/typo.c \
-  /home/spc/Documents/18342/lab3/tasks/libc/include/stdio.h \
-  /home/spc/Documents/18342/lab3/tasks/libc/include/stdarg.h \
-  /home/spc/Documents/18342/lab3/tasks/libc/include/sys/types.h \
-  /home/spc/Documents/18342/lab3/tasks/libc/include/bits/types.h \
-  /home/spc/Documents/18342/lab3/tasks/libc/include/stdlib.h \
-  /home/spc/Documents/18342/lab3/tasks/libc/include/unistd.h \
-  /home/spc/Documents/18342/lab3/tasks/libc/include/bits/fileno.h
+/home/fa/emb/lab3/EBProject3/tasks/typo/typo.o:  \
+ /home/fa/emb/lab3/EBProject3/tasks/typo/typo.c \
+  /home/fa/emb/lab3/EBProject3/tasks/libc/include/stdio.h \
+  /home/fa/emb/lab3/EBProject3/tasks/libc/include/stdarg.h \
+  /home/fa/emb/lab3/EBProject3/tasks/libc/include/sys/types.h \
+  /home/fa/emb/lab3/EBProject3/tasks/libc/include/bits/types.h \
+  /home/fa/emb/lab3/EBProject3/tasks/libc/include/stdlib.h \
+  /home/fa/emb/lab3/EBProject3/tasks/libc/include/unistd.h \
+  /home/fa/emb/lab3/EBProject3/tasks/libc/include/bits/fileno.h
 
-/home/spc/Documents/18342/lab3/tasks/libc/include/stdio.h:
+/home/fa/emb/lab3/EBProject3/tasks/libc/include/stdio.h:
 
-/home/spc/Documents/18342/lab3/tasks/libc/include/stdarg.h:
+/home/fa/emb/lab3/EBProject3/tasks/libc/include/stdarg.h:
 
-/home/spc/Documents/18342/lab3/tasks/libc/include/sys/types.h:
+/home/fa/emb/lab3/EBProject3/tasks/libc/include/sys/types.h:
 
-/home/spc/Documents/18342/lab3/tasks/libc/include/bits/types.h:
+/home/fa/emb/lab3/EBProject3/tasks/libc/include/bits/types.h:
 
-/home/spc/Documents/18342/lab3/tasks/libc/include/stdlib.h:
+/home/fa/emb/lab3/EBProject3/tasks/libc/include/stdlib.h:
 
-/home/spc/Documents/18342/lab3/tasks/libc/include/unistd.h:
+/home/fa/emb/lab3/EBProject3/tasks/libc/include/unistd.h:
 
-/home/spc/Documents/18342/lab3/tasks/libc/include/bits/fileno.h:
+/home/fa/emb/lab3/EBProject3/tasks/libc/include/bits/fileno.h:

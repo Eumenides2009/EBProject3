@@ -1,8 +1,8 @@
-/home/spc/Documents/18342/lab3/tasks/libc/swi/time.o:  \
- /home/spc/Documents/18342/lab3/tasks/libc/swi/time.S \
-  /home/spc/Documents/18342/lab3/tasks/libc/include/asm.h \
-  /home/spc/Documents/18342/lab3/tasks/libc/include/bits/swi.h
+/home/fa/emb/lab3/EBProject3/tasks/libc/swi/time.o:  \
+ /home/fa/emb/lab3/EBProject3/tasks/libc/swi/time.S \
+  /home/fa/emb/lab3/EBProject3/tasks/libc/include/asm.h \
+  /home/fa/emb/lab3/EBProject3/tasks/libc/include/bits/swi.h
 
-/home/spc/Documents/18342/lab3/tasks/libc/include/asm.h:
+/home/fa/emb/lab3/EBProject3/tasks/libc/include/asm.h:
 
-/home/spc/Documents/18342/lab3/tasks/libc/include/bits/swi.h:
+/home/fa/emb/lab3/EBProject3/tasks/libc/include/bits/swi.h:
